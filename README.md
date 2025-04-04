@@ -6,7 +6,7 @@ My rice of windows:  https://imgur.com/a/ZfQ9szh
 
 You will need it:
 
-Cava: https://workupload.com/archive/M26hLYDBg8
+Cava: https://github.com/boykissertech/ricing-windows/blob/main/cava_win.zip
 
 wsl2 debian (wsl --install debian)
 
@@ -18,4 +18,4 @@ oh-my-posh: choco install oh-my-posh
 
 and firacode nerd fonts in terminal (https://workupload.com/file/tx97HeGnMM5)
 
-and config on fastfetch: https://workupload.com/file/yX8q2RyRJXc
+and config on fastfetch: https://github.com/boykissertech/ricing-windows/blob/main/fastfetchconfig.zip
