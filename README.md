@@ -1,5 +1,7 @@
 # ricing-windows
 
+In general, I do not assure what it can be called rice windows
+
 My rice of windows:  https://imgur.com/a/ZfQ9szh
 
 You will need it:
