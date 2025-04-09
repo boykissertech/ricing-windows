@@ -19,6 +19,7 @@ fastfetch: winget install fastfetch
 
 oh-my-posh: choco install oh-my-posh
 
-and firacode nerd fonts in terminal (https://workupload.com/file/tx97HeGnMM5)
+firacode nerd fonts in terminal (https://workupload.com/file/tx97HeGnMM5)
 
-and config on fastfetch: https://github.com/boykissertech/ricing-windows/blob/main/fastfetchconfig.zip
+and config on fastfetch: [fastfetchconfig.zip](https://github.com/user-attachments/files/19665593/fastfetchconfig.zip)
+
